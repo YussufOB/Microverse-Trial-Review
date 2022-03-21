@@ -1,0 +1,27 @@
+{
+  "name": "microverse-trial-review",
+  "version": "1.0.0",
+  "description": "> Reviewing one of Microverse Trial Projects in other to suit Microverse workflow procedure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YussufOB/Microverse-Trial-Review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YussufOB/Microverse-Trial-Review/issues"
+  },
+  "homepage": "https://github.com/YussufOB/Microverse-Trial-Review#readme",
+  "devDependencies": {
+    "hint": "^6.1.10",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
